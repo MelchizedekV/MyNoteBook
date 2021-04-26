@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MyNoteBook</string>
+    <string name="what_is_to_be_done">What is to be done?</string>
+    <string name="submit">Submit</string>
+</resources>
